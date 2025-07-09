@@ -1,0 +1,12 @@
+# versions removed to accomodate enroot environment
+torch
+torchvision
+diffusers
+scikit-image
+scikit-video
+zarr
+numcodecs
+pygame
+pymunk
+gym
+shapely
